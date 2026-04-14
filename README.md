@@ -1,5 +1,5 @@
-# 💫 About Me:
-I’m currently working on learning and building backend projects using Node.js, Express, and MongoDB.<br><br>I’m looking to collaborate on Beginner-friendly web development projects, especially Node.js or full-stack applications.<br><br>I’m looking for help with improving my backend skills, understanding MVC architecture, and building real-world projects.<br><br>I’m currently learning Node.js, Express.js, MongoDB, and the MVC pattern for web development.<br><br>Ask me about JavaScript, Node.js fundamentals, and beginner backend development.<br><br>Fun fact: I enjoy solving coding problems and learning new technologies step by step every day.
+#About Me:
+I’m currently working on learning and building backend projects using Node.js, Express, and MongoDB. <br><br>I’m looking to collaborate on Beginner-friendly web development projects, especially Node.js or full-stack applications.<br><br>I’m looking for help with improving my backend skills, understanding MVC architecture, and building real-world projects.<br><br>I’m currently learning Node.js, Express.js, MongoDB, and the MVC pattern for web development.<br><br>Ask me about JavaScript, Node.js fundamentals, and beginner backend development.<br><br>Fun fact: I enjoy solving coding problems and learning new technologies step by step every day.
 
 
 # 💻 Tech Stack:
